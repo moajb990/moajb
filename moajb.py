@@ -1,4 +1,6 @@
-  import os,sys,hashlib
+  import os
+  import hashlib
+  import sys
   os.system('clear')
   d = '\033[1;34m'
   C = '\033[1;31m'
