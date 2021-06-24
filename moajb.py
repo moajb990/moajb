@@ -13,7 +13,7 @@ import sys
 
   print('& & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & ')
 
-  print ''' \033[33m welcome     Black Hat  
+  print ''' \033[33m welcome     Black Hat  moajb990
                             Encrypt 
                              moajb 
         '''
