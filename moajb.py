@@ -1,5 +1,5 @@
 import os,sys,hashlib
-  os.system('clear')
+ os.system('clear')
   d = '\033[1;34m'
   C = '\033[1;31m'
 
