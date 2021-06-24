@@ -11,7 +11,7 @@ oo=set([])
 pop=set([])
 cc=1
 while True :
-    b=input('Entre {} : '.format(kk))
+    b=input('Entre {} : '.format(cc))
     if b=='exit' :
         print('\033[3;36m')
         file.close()
