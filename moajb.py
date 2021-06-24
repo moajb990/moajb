@@ -37,6 +37,6 @@
           file.write(d)
           file.write('\n')
 
-        cc=int(cc)+1
-        print('-'*40)
-#by moajb PS
+       
+      cc=int(cc)+1
+      print('-'*40)
