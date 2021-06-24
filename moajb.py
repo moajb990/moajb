@@ -1,15 +1,15 @@
  import os
-  os.system('printf "\033[3;32m" ')
-  mm=input('Entre name The LisT : ')
-  os.system('clear')
-  os.system('printf "\033[3;36m"')
-  os.system('figlet Good - list')
-  print('By : moajb ((momo PS))')
-  print('-'*29)
-  file=open(mm,'w')
-  oo=set([])
-  pop=set([])
-  cc=1
+ os.system('printf "\033[3;32m" ')
+ mm=input('Entre name The LisT : ')
+ os.system('clear')
+ os.system('printf "\033[3;36m"')
+ os.system('figlet Good - list')
+ print('By : moajb ((momo PS))')
+ print('-'*29)
+ file=open(mm,'w')
+ oo=set([])
+ pop=set([])
+ cc=1
   while True :
       b=input('Entre {} : '.format(kk))
       if b=='exit' :
