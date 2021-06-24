@@ -33,8 +33,8 @@ while True :
         if len(c) >= 6 :
             file.write(c)
             file.write('\n')
-        if c != d and len(d) >= 6:
-           file.write(d)
+        if c != d and len(q) >= 6:
+           file.write(q)
            file.write('\n')
 
        
