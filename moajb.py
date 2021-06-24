@@ -9,9 +9,9 @@ print('-'*29)
 file=open(mm,'w')
 oo=set([])
 pop=set([])
-cc=1
+kk=1
 while True :
-    b=input('Entre {} : '.format(cc))
+    b=input('Entre {} : '.format(kk))
     if b=='exit' :
         print('\033[3;36m')
         file.close()
@@ -38,5 +38,5 @@ while True :
            file.write('\n')
 
        
-    cc=int(cc)+1
+    kk=int(kk)+1
     print('-'*40)
